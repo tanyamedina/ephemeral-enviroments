@@ -1,0 +1,13 @@
+{
+    "name": "mi-app-heroku",
+    "version": "1.0.0",
+    "description": "Una simple app de Node.js para Heroku",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs"
+}

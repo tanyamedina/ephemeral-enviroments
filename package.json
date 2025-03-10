@@ -1,7 +1,7 @@
 {
-    "name": "mi-app-heroku",
+    "name": "ambiente-efimero",
     "version": "1.0.0",
-    "description": "Una simple app de Node.js para Heroku",
+    "description": "Una simple app de Node.js para Render para probar Ephimeral Environments",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"

@@ -37,7 +37,7 @@ const server = http.createServer((req, res) => {
     <body>
         <div class="text-container">
             <p class="blue-text">Configurando el entorno de desarrollo para desplegar una app y</p>
-            <p probar Ephemeral Environments. Disponible proximamente</p>
+            <p class="blue-text">probar Ephemeral Environments. Disponible proximamente</p>
             <p class="pink-text">Proyecto para UDG</p>
             <p class="green-text">Tanya Medina</p>
         </div>
